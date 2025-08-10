@@ -27,7 +27,8 @@ SECRET_KEY = 'django-insecure-+syq8b7wexn1y1=m$xn*plf2%dsjhf#f2$36d&f6xv09)w5_5s
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
+var1 = 1
+Var2 = "yahoo"
 
 # Application definition
 
