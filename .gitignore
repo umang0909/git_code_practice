@@ -1,0 +1,17 @@
+# Python
+*.pyc
+__pycache__/
+*.log
+
+# Django
+db.sqlite3
+.env
+
+# Virtual environment
+venv/
+
+# VS Code
+.vscode/
+
+# Remove all init files of Project
+**/__init__.py
