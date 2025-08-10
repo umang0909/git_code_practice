@@ -29,7 +29,7 @@ DEBUG = True
 ALLOWED_HOSTS = []
 var1 = 1
 var2 = "yahoo"
-
+var3 = "Google"
 # Application definition
 
 INSTALLED_APPS = [
