@@ -28,7 +28,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 var1 = 1
-Var2 = "yahoo"
+var2 = "yahoo"
 
 # Application definition
 
