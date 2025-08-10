@@ -28,6 +28,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+var1 = 1
+
 
 # Application definition
 
