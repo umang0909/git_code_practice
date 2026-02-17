@@ -23,6 +23,10 @@ var3 = "Google"
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'django-insecure-+syq8b7wexn1y1=m$xn*plf2%dsjhf#f2$36d&f6xv09)w5_5s'
 
+
+#to check
+
+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
